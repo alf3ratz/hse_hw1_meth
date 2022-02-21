@@ -28,9 +28,9 @@
     - epiblast: 1062
     - icm: 630
 # Процент дедупликации  
-- 8cell: 18.31%
-- epiblast: 2.92%
-- icm: 9.08%
+- 8cell: ~82%
+- epiblast: ~97%
+- icm: ~91%
 
 # Скрипт
 ```shell
