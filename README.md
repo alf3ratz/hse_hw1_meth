@@ -4,16 +4,16 @@
 # FastQC
 ## Basic Statistics
 **BS-seq**  
-![image](https://user-images.githubusercontent.com/49417479/155021915-3075eb63-cee1-4dcc-a680-2941df9f3581.png)
+![image](https://user-images.githubusercontent.com/49417479/155021915-3075eb63-cee1-4dcc-a680-2941df9f3581.png)  
 **РНК**  
-![image](https://user-images.githubusercontent.com/49417479/155022130-efe49474-377b-4393-bb9a-0508b9196221.png)
-Можно заметить, что процент GC для рнк, как минимум больше, а для некоторых последовательностей больше в несколько раз. 
+![image](https://user-images.githubusercontent.com/49417479/155022130-efe49474-377b-4393-bb9a-0508b9196221.png)  
+Можно заметить, что процент GC для рнк, как минимум больше, а для некоторых последовательностей больше в несколько раз.   
 
 ## Per sequence GC content
-**BS-seq**
-![image](https://user-images.githubusercontent.com/49417479/155022749-35764c0e-4a1f-4592-869a-8f6873800f3d.png)
-**РНК**
-![image](https://user-images.githubusercontent.com/49417479/155022812-1a55f7c8-a799-47cc-b4fb-b67a99e47088.png)
+**BS-seq**  
+![image](https://user-images.githubusercontent.com/49417479/155022749-35764c0e-4a1f-4592-869a-8f6873800f3d.png)  
+**РНК**  
+![image](https://user-images.githubusercontent.com/49417479/155022812-1a55f7c8-a799-47cc-b4fb-b67a99e47088.png)  
 
 **В случае рнк имеем нормально распределение, в случае с bs-seq график представляет из себя что-то непонтное (для меня) с перепадами значений**  
 
@@ -38,9 +38,9 @@
 ```
 
 # Метелирование
-### SRR5836473
-![image](https://user-images.githubusercontent.com/49417479/155021216-75d63157-3a7c-4717-9af0-932f71501a5e.png)
-![image](https://user-images.githubusercontent.com/49417479/155021240-9911a59f-13c3-4cbc-a9ee-da4626b24260.png)
+### SRR5836473  
+![image](https://user-images.githubusercontent.com/49417479/155021216-75d63157-3a7c-4717-9af0-932f71501a5e.png)  
+![image](https://user-images.githubusercontent.com/49417479/155021240-9911a59f-13c3-4cbc-a9ee-da4626b24260.png)  
 
 
 ### SRR3824222
