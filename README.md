@@ -3,9 +3,9 @@
 
 # FastQC
 ## Basic Statistics
-**BS-seq**
+**BS-seq**  
 ![image](https://user-images.githubusercontent.com/49417479/155021915-3075eb63-cee1-4dcc-a680-2941df9f3581.png)
-**РНК**
+**РНК**  
 ![image](https://user-images.githubusercontent.com/49417479/155022130-efe49474-377b-4393-bb9a-0508b9196221.png)
 Можно заметить, что процент GC для рнк, как минимум больше, а для некоторых последовательностей больше в несколько раз. 
 
